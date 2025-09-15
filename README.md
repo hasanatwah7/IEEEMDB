@@ -68,6 +68,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 Do what the fuck you want public license.
-
-
-.
