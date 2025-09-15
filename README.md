@@ -10,7 +10,7 @@ To build this project, you need a C++ compiler (like [MinGW-w64](https://www.min
 1. First of all Clone the  files:
 ```bash
 
-git clone "git-hub url"
+git clone https://github.com/hasanatwah7/IEEEMDB
 ```
 
 
